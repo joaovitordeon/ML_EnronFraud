@@ -1,0 +1,2 @@
+Versão do Python : 3.6.5
+Versão do SKlearn : 0.20.2 
