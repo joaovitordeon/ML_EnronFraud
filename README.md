@@ -10,8 +10,8 @@ In this project we will analyze -through machine learning- this leaked informati
 <br>
 The whole process of cleaning, creating variables, visualizing and creating classifiers is in the file `poi_id.py` and the complete report of these processes is in the<br> 
 file `MachineLearningReport.pdf`.
-
-
+<br>
+----
 
 
  
